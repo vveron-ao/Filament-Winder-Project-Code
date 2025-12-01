@@ -1,2 +1,2 @@
-# Filament-Winder-Project-Code
+# Stepper Motor-Code
 As Composites & Structures lead for my rocketry club, I worked on a project to build a Carbon Fiber Filament Tube Winder, a CNC machine that would fabricate lighter body tubes for our rocket. A filament winder heavily relies on electronics and stepper motors to function. My technical role was to build the foundation for these electronics and program them in MicroPython. I achieved this by wiring a circuit configured to a Raspberry Pi Pico 2 Microcontroller and writing code that moves a NEMA 23 stepper motor.
